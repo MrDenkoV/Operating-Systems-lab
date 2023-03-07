@@ -1,0 +1,1366 @@
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 0.030000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_operation
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_operation
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.030000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_operation
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.030000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_operation
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 0.090000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.090000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.090000
+USER: 0.000000
+SYS: 0.010000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.090000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.090000
+USER: 0.000000
+SYS: 0.010000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.030000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 0.310000
+USER: 0.000000
+SYS: 0.010000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 0.020000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_operation
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 0.020000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_operation
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.020000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 0.020000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_operation
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.020000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_operation
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 0.090000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.080000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.010000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.090000
+USER: 0.000000
+SYS: 0.010000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.090000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.090000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: remove_block
+REAL: 0.000000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+Times for arg: compare_pairs
+REAL: 0.020000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 0.300000
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+
+

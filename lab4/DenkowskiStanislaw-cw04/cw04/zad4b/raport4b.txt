@@ -1,0 +1,1 @@
+Przy wysyłaniu potwierdzenia odbioru wszystkie sygnały są odbierane, jednak przy ponowynym wysyłaniu znowu się tracą.

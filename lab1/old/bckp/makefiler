@@ -1,0 +1,17 @@
+# Makefile
+CC = gcc -Wall -fsanitize=address
+
+all: clean static shared
+
+static:
+	$(CC) -c libcomp.c
+	ar rcs liblibcomp.a libcomp.o
+
+shared:
+	$(CC) -c -fPIC libcomp.c
+	$(CC) -shared -fPIC -o liblibcomp.so libcomp.o
+
+clean:
+	rm -f *.o
+	rm -f *.so
+	rm -f *.a

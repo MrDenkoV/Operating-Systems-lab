@@ -1,0 +1,7 @@
+Opalane make -i -> ze względu na zwracany błąd wynikający z braku handlera w exec.
+
+Ignorowanie przechodzi wszędzie - Fork i Exec.
+Handler przechodzi tylko dla Forka, dla Execa jest błąd wynikając z braku handlera(został nadpisany) i sygnał po wypisaniu błędu ignoruje sygnał.
+Mask przechodzi wszędzie - Fork i Exec.
+Pending przechodzi tylko dla Execa, przejmuje on sygnały parenta, dla Forka nie jest osiągalny.
+

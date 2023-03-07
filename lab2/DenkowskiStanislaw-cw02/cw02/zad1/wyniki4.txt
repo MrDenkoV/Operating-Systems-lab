@@ -1,0 +1,48 @@
+Times for arg using lib calls: copy tst.txt cpl.txt 50000 4
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+
+
+Times for arg using sys calls: copy tst.txt cps.txt 50000 4
+USER: 0.030000
+SYS: 0.090000
+--------------------------------------------
+
+
+Times for arg using lib calls: sort cpl.txt 50000 4
+USER: 2.970000
+SYS: 3.690000
+--------------------------------------------
+
+
+Times for arg using sys calls: sort cps.txt 50000 4
+USER: 2.520000
+SYS: 3.570000
+--------------------------------------------
+
+
+Times for arg using lib calls: copy tst.txt cpl.txt 100000 4
+USER: 0.000000
+SYS: 0.000000
+--------------------------------------------
+
+
+Times for arg using sys calls: copy tst.txt cps.txt 100000 4
+USER: 0.080000
+SYS: 0.170000
+--------------------------------------------
+
+
+Times for arg using lib calls: sort cpl.txt 100000 4
+USER: 6.240000
+SYS: 7.580000
+--------------------------------------------
+
+
+Times for arg using sys calls: sort cps.txt 100000 4
+USER: 5.180000
+SYS: 7.340000
+--------------------------------------------
+
+

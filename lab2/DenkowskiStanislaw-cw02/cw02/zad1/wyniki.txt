@@ -1,0 +1,7 @@
+W tym pliku zamieszczam wyłącznie omówienie wyników, poszczególne wyniki zawarte są w w odpowiednich plikach "wyniki{rozmiar rekordu}.txt", aby nie pogarszać czytelności i zapobiec przypadkowej utracie wyników.
+Kilka plików (cpl.txt, cps.txt i tst.txt) wyciągnąłem z folderu z powodu zbyt dużych rozmiarów.
+Podsumowanie wyników:
+	Generalnie dla krótkich napisów, biblioteczne operacje są szybsze (dla 1 dużo, dla 4 porównywalne). Warto pamiętać, że przy krótkich napisach i dużej liczbie rekordów możemy otrzymać sporo równych rekordów co może bardzo negatywnie wpłynąć na quicksorta.
+	Dla dłuższych napisów (>4) sortowanie systemowe jest szybsze (dla większej liczby rekordów dużo). Kopiowanie wychodzi bardzo porównywalnie, z wyjątkiem systemowych funkcji dla dużej liczby rekordów i dużych długości (8192 znaki i 200000 rekordy oraz 4096 znaki i 500000 rekordy).
+
+Należy pamiętać, żeby w mainie w programie zmienić nazwę pliku, aby nie nadpisać obecnego, przy uruchamianiu.

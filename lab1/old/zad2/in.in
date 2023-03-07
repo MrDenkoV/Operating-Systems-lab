@@ -1,0 +1,1 @@
+7 compare_pairs 7 a.txt:b.txt c.txt:d.txt e.txt:f.txt c.txt:e.txt c.txt:f.txt d.txt:e.txt d.txt:f.txt remove_block 3 remove_operation 0 1 compare_pairs 1 a.txt:b.txt

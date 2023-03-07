@@ -1,0 +1,80 @@
+./main.o 1 sign saturn.ascii.pgm out1signsaturn.txt
+Thread 0 140476516173568: 2779
+All: 2943
+
+./main.o 2 sign saturn.ascii.pgm out2signsaturn.txt
+Thread 0 140340326586112: 3354
+Thread 1 140340318193408: 2817
+All: 3489
+
+./main.o 4 sign saturn.ascii.pgm out4signsaturn.txt
+Thread 0 139922061088512: 4443
+Thread 1 139922052695808: 3861
+Thread 2 139922044303104: 3796
+Thread 3 139922035910400: 3770
+All: 4564
+
+./main.o 8 sign saturn.ascii.pgm out8signsaturn.txt
+Thread 0 140115118176000: 4706
+Thread 1 140115109783296: 3374
+Thread 2 140115101390592: 3219
+Thread 3 140115092997888: 3320
+Thread 4 140115084605184: 3411
+Thread 5 140115076212480: 3432
+Thread 6 140115067819776: 3922
+Thread 7 140115059427072: 3124
+All: 7647
+
+./main.o 1 block saturn.ascii.pgm out1blocksaturn.txt
+Thread 0 140504322049792: 3551
+All: 3698
+
+./main.o 2 block saturn.ascii.pgm out2blocksaturn.txt
+Thread 0 139626900596480: 1751
+Thread 1 139626892203776: 1649
+All: 1872
+
+./main.o 4 block saturn.ascii.pgm out4blocksaturn.txt
+Thread 0 140490827462400: 1428
+Thread 1 140490819069696: 1303
+Thread 2 140490810676992: 1294
+Thread 3 140490802284288: 1376
+All: 1544
+
+./main.o 8 block saturn.ascii.pgm out8blocksaturn.txt
+Thread 0 140678673925888: 756
+Thread 1 140678665533184: 687
+Thread 2 140678657140480: 617
+Thread 3 140678648747776: 667
+Thread 4 140678640355072: 647
+Thread 5 140678631962368: 644
+Thread 6 140678623569664: 678
+Thread 7 140678615176960: 803
+All: 1616
+
+./main.o 1 interleaved saturn.ascii.pgm out1intersaturn.txt
+Thread 0 140203361539840: 3429
+All: 3588
+
+./main.o 2 interleaved saturn.ascii.pgm out2intersaturn.txt
+Thread 0 139750895666944: 1330
+Thread 1 139750887274240: 1328
+All: 1480
+
+./main.o 4 interleaved saturn.ascii.pgm out4intersaturn.txt
+Thread 0 139869813294848: 1364
+Thread 1 139869804902144: 1450
+Thread 2 139869796509440: 1433
+Thread 3 139869788116736: 1382
+All: 1552
+
+./main.o 8 interleaved saturn.ascii.pgm out8intersaturn.txt
+Thread 0 140631209989888: 634
+Thread 1 140631201597184: 693
+Thread 2 140631193204480: 697
+Thread 3 140631184811776: 590
+Thread 4 140631176419072: 693
+Thread 5 140631168026368: 830
+Thread 6 140631159633664: 617
+Thread 7 140631151240960: 580
+All: 1663

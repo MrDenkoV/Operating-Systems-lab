@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="tst" targetName="tst" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83aa21a7-2be1-419f-b436-abe9b759d2ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ZCtsgA4hwAKgJiNT6qNJPR6OYK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="tst" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tst" TARGET_NAME="tst" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tst" RUN_TARGET_NAME="tst">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83aa21a7-2be1-419f-b436-abe9b759d2ed" name="Default Changelist" comment="" />
+      <created>1584355111732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584355111732</updated>
+      <workItem from="1584355112991" duration="68019000" />
+      <workItem from="1584542864804" duration="4890000" />
+      <workItem from="1584639564709" duration="21716000" />
+      <workItem from="1585057060019" duration="133000" />
+      <workItem from="1585767504557" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584388543453">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="424" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1584388543453" />
+    <state x="685" y="291" width="424" height="511" key="FileChooserDialogImpl" timestamp="1585057137355">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="685" y="291" width="424" height="511" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1585057137355" />
+    <state width="1520" height="133" key="GridCell.Tab.0.bottom" timestamp="1584664389097">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1520" height="133" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1584664389097" />
+    <state width="1520" height="133" key="GridCell.Tab.0.center" timestamp="1584664389096">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1520" height="133" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1584664389096" />
+    <state width="1520" height="133" key="GridCell.Tab.0.left" timestamp="1584664389096">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1520" height="133" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1584664389096" />
+    <state width="1520" height="133" key="GridCell.Tab.0.right" timestamp="1584664389096">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1520" height="133" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1584664389096" />
+    <state x="454" y="171" key="SettingsEditor" timestamp="1584642369217">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="454" y="171" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1584642369217" />
+    <state x="571" y="374" key="com.intellij.ide.util.TipDialog" timestamp="1585057104020">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="571" y="374" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1585057104020" />
+    <state x="618" y="154" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584542164053">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="618" y="154" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1044@0.0.1920.1044" timestamp="1584542164053" />
+    <state x="572" y="251" width="672" height="677" key="run.anything.popup" timestamp="1584650017089">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="572" y="251" width="672" height="677" key="run.anything.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1584650017089" />
+    <state x="623" y="256" width="672" height="678" key="search.everywhere.popup" timestamp="1584475822756">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="623" y="256" width="672" height="678" key="search.everywhere.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1584475822756" />
+  </component>
+</project>

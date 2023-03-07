@@ -1,0 +1,6 @@
+ls -l | wc -l
+ps aux | grep root | wc -l
+echo "Cecil B. Demented" | wc -m
+echo "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dolor dui, pharetra vitae amet." | grep i | wc -c
+echo "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dolor dui, pharetra vitae amet." | wc -c
+echo "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dolor dui, pharetra vitae amet." | grep i

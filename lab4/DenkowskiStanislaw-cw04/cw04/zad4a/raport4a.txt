@@ -1,0 +1,9 @@
+Dużo sygnałów przepada.
+Dla 10000 dostają
+kill 2500
+sigqueue prawie 5000
+sigrt trochę więcej niż sigqueue ale mnie niż 5000
+Dla 1000000 dostają
+kill 248500
+sigqueue 497900
+sigrt 264900

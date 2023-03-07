@@ -1,0 +1,72 @@
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 1.850000
+USER: 0.020000
+SYS: 0.100000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 1.880000
+USER: 0.020000
+SYS: 0.100000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 1.860000
+USER: 0.020000
+SYS: 0.100000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 1.740000
+USER: 0.020000
+SYS: 0.040000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 1.760000
+USER: 0.020000
+SYS: 0.040000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 1.850000
+USER: 0.010000
+SYS: 0.050000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 1.930000
+USER: 0.010000
+SYS: 0.050000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 1.820000
+USER: 0.020000
+SYS: 0.050000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 1.990000
+USER: 0.020000
+SYS: 0.050000
+--------------------------------------------
+
+

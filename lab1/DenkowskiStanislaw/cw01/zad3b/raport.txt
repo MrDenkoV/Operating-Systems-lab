@@ -1,0 +1,9 @@
+Ze względu na to, że prawie wszystkie operacje są bardzo szybkie postanowiłem zostawić tylko compare_pairs 500.
+Wcześniejsze testy również działają jednak wyniki są mało przejrzyste-można sprawdzić, make zawierający je to oldmakefile.
+Dzięki temu możemy łatwo i przejrzyście zaobserwować różnice(w większości przypadków ich brak) w czasie wykonania w zależności od sposobu kompilacji programu.
+Wyniki są następujące:
+	Statyczne dołączenie biblioteki jest systemowo najwolniejsze,
+	Pozostałe są porównywalne i czasami się zamieniają kolejnością.
+	Flagi O0..O2 wpływają raczej na czas rzeczywisty niż użytkownika lub systemowy, tak czy inaczej różnice są nieznaczne, częście O2 jest najszybsze, lecz zdarza się że jest najwolniejsze(waha się, bo różnice są niewielkie)
+Różnice nie są bardzo duże jednak mogą być zauważalne.
+

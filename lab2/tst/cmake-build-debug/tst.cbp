@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tst"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tst">
+				<Option output="/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/tst" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/DenkoV/anaconda3/bin/../lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include"/>
+					<Add directory="/home/DenkoV/anaconda3/bin/../lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include-fixed"/>
+					<Add directory="/home/DenkoV/anaconda3/bin/../lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/../../../../x86_64-conda_cos6-linux-gnu/include"/>
+					<Add directory="/home/DenkoV/anaconda3/bin/../x86_64-conda_cos6-linux-gnu/sysroot/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 tst"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tst/fast">
+				<Option output="/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/tst" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/DenkoV/anaconda3/bin/../lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include"/>
+					<Add directory="/home/DenkoV/anaconda3/bin/../lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include-fixed"/>
+					<Add directory="/home/DenkoV/anaconda3/bin/../lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/../../../../x86_64-conda_cos6-linux-gnu/include"/>
+					<Add directory="/home/DenkoV/anaconda3/bin/../x86_64-conda_cos6-linux-gnu/sysroot/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 tst/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/DenkoV/Prog/C/SysOp/lab2/tst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/DenkoV/Prog/C/SysOp/lab2/tst/main.c">
+			<Option target="tst"/>
+		</Unit>
+		<Unit filename="/home/DenkoV/Prog/C/SysOp/lab2/tst/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,10 @@
+A0.txt B0.txt C0.txt
+A1.txt B1.txt C1.txt
+A2.txt B2.txt C2.txt
+A3.txt B3.txt C3.txt
+A4.txt B4.txt C4.txt
+A5.txt B5.txt C5.txt
+A6.txt B6.txt C6.txt
+A7.txt B7.txt C7.txt
+A8.txt B8.txt C8.txt
+A9.txt B9.txt C9.txt

@@ -1,0 +1,24 @@
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 1.870000
+USER: 0.010000
+SYS: 0.120000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 1.850000
+USER: 0.010000
+SYS: 0.050000
+--------------------------------------------
+
+
+	NEW EXECUTION
+Times for arg: compare_pairs
+REAL: 1.890000
+USER: 0.010000
+SYS: 0.050000
+--------------------------------------------
+
+

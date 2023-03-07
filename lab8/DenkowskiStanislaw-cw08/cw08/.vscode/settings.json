@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "system_error": "c",
+        "stdio.h": "c",
+        "*.tcc": "c",
+        "com.h": "c",
+        "string.h": "c",
+        "shm.h": "c",
+        "unistd.h": "c",
+        "mman.h": "c"
+    }
+}
